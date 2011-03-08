@@ -1,0 +1,34 @@
+<classpath>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="src/main/java" excluding="**/.svn/|**/CVS/"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm/1.5.3/asm-1.5.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/backport-util-concurrent/backport-util-concurrent/3.0/backport-util-concurrent-3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/cglib/cglib/2.1_3/cglib-2.1_3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.1/commons-lang-2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/hsqldb/hsqldb/1.8.0.7/hsqldb-1.8.0.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.3.1/junit-4.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/components/geronimo-connector/2.0.1/geronimo-connector-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/components/geronimo-transaction/2.0.1/geronimo-transaction-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/modules/geronimo-kernel/2.0.1/geronimo-kernel-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-ejb_2.1_spec/1.1/geronimo-ejb_2.1_spec-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-j2ee-connector_1.5_spec/1.0/geronimo-j2ee-connector_1.5_spec-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate/3.2.5.ga/hibernate-3.2.5.ga.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/2.0.1/spring-beans-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/2.0.1/spring-context-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/2.0.1/spring-core-2.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jmx/2.0.1/spring-jmx-2.0.1.jar"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-api"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-dao"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-epr"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-ql"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/utils"/>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" excluding="**/.svn/|**/CVS/"/>
+</classpath>

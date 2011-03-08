@@ -1,0 +1,25 @@
+========================
+Apache ODE Release Notes
+========================
+
+Apache ODE 1.1.1 is a minor release reflecting all the small fixes
+and improvements we've added since 1.1. There's no major new feature
+in this release (this should come in due time) but chockfull of
+usability and performance enhancements.
+ 
+Apache ODE 1.1.1 requires Java 1.5.x. The WAR distribution can run in
+most J2EE servlet container. The JBI distribution should be able to
+run in any JBI container but has only been tested with ServiceMix
+3.1 so far. See the BUILDING file if you want to build your own
+distribution from the source release.
+
+Changes:
+-------
+
+* Performance improvements for persistent mode.
+* Better integration with Axis2 (possibility to provide a 
+services.xml).
+* Weblogic support.
+* Lots of bug fixes. See 
+https://issues.apache.org/jira/browse/ODE/fixforversion/12312750
+

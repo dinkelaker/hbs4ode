@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/resources/HelloWorld2
+END
+HelloWorld2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/resources/HelloWorld2/HelloWorld2.wsdl
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/resources/HelloWorld2/deploy.xml
+END
+HelloWorld2.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/resources/HelloWorld2/HelloWorld2.bpel
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/resources/HelloWorld2/test.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/wsdl
+END
+pmapi.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/wsdl/pmapi.wsdl
+END
+xmlmime.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/wsdl/xmlmime.xsd
+END
+deploy.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/wsdl/deploy.wsdl
+END

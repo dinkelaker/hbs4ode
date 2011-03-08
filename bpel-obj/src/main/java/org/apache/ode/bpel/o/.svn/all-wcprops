@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o
+END
+FailureHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/FailureHandling.java
+END
+OLValueExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OLValueExpression.java
+END
+OLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OLink.java
+END
+OMessageVarType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OMessageVarType.java
+END
+OInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OInvoke.java
+END
+ORethrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/ORethrow.java
+END
+OSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/157/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OSwitch.java
+END
+OFailureHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OFailureHandling.java
+END
+OConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OConstants.java
+END
+OBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/136/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OBase.java
+END
+OActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OActivity.java
+END
+OEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OEmpty.java
+END
+OFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/157/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OFlow.java
+END
+OReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OReply.java
+END
+OForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OForEach.java
+END
+OThrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OThrow.java
+END
+OAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OAgent.java
+END
+OTerminationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OTerminationHandler.java
+END
+ORepeatUntil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/ORepeatUntil.java
+END
+OPartnerLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OPartnerLink.java
+END
+OVarType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OVarType.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/Serializer.java
+END
+OSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OSequence.java
+END
+OConstantVarType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OConstantVarType.java
+END
+OXsdTypeVarType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OXsdTypeVarType.java
+END
+OCatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/158/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OCatch.java
+END
+ASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/158/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/ASTVisitor.java
+END
+OConstantExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OConstantExpression.java
+END
+OExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OExpression.java
+END
+OCompensate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OCompensate.java
+END
+OScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OScope.java
+END
+OWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OWait.java
+END
+OWhile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OWhile.java
+END
+DebugInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/DebugInfo.java
+END
+OCompensationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OCompensationHandler.java
+END
+OProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OProcess.java
+END
+OExpressionLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OExpressionLanguage.java
+END
+OEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OEventHandler.java
+END
+OAssign.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/136/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OAssign.java
+END
+OXslSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OXslSheet.java
+END
+OFaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/158/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OFaultHandler.java
+END
+OExtVar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OExtVar.java
+END
+OElementVarType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OElementVarType.java
+END
+OPickReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OPickReceive.java
+END
+OTerminate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-obj/src/main/java/org/apache/ode/bpel/o/OTerminate.java
+END

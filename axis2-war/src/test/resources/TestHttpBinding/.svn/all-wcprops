@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding/deploy.xml
+END
+http-binding-test.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding/http-binding-test.wsdl
+END
+http-binding-test.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding/http-binding-test.bpel
+END
+Arithmetics.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding/Arithmetics.wsdl
+END
+testRequest.soap
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestHttpBinding/testRequest.soap
+END

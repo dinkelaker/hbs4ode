@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestSimpleVariableType
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestSimpleVariableType/deploy.xml
+END
+test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestSimpleVariableType/test1.properties
+END
+TestSimpleVariableType.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestSimpleVariableType/TestSimpleVariableType.wsdl
+END
+TestSimpleVariableType.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestSimpleVariableType/TestSimpleVariableType.bpel
+END

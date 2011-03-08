@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources/log4j.properties
+END
+integration-layer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources/integration-layer.properties
+END

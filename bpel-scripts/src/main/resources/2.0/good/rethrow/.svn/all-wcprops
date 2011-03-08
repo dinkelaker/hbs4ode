@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow
+END
+test.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/test.wsdl
+END
+inMsg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/inMsg.xml
+END
+2.tdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/2.tdef
+END
+Rethrow2-2.0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/Rethrow2-2.0.bpel
+END
+1.tdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/1.tdef
+END
+Rethrow1-2.0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/rethrow/Rethrow1-2.0.bpel
+END

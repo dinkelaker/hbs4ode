@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes
+END
+ValuesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/ValuesHelper.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Identifier.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Query.java
+END
+In.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/In.java
+END
+OrderBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/OrderBy.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Node.java
+END
+Disjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Disjunction.java
+END
+LogicNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/LogicNode.java
+END
+OrderByType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/OrderByType.java
+END
+GE.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/GE.java
+END
+Limit.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Limit.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Field.java
+END
+Greater.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Greater.java
+END
+Equality.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Equality.java
+END
+LE.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/LE.java
+END
+Less.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Less.java
+END
+IdentifierToValueCMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/IdentifierToValueCMP.java
+END
+OrderByElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/OrderByElement.java
+END
+Like.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Like.java
+END
+Conjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Conjunction.java
+END
+LogicExprNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/LogicExprNode.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Property.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/Value.java
+END
+AbstractLogicExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/tree/nodes/AbstractLogicExpr.java
+END

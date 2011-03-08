@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery
+END
+failure-to-fault.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/failure-to-fault.bpel
+END
+failure-inheritence.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/failure-inheritence.bpel
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/deploy.xml
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/types.xsd
+END
+failure-no-retry.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/failure-no-retry.bpel
+END
+services.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/services.wsdl
+END
+failure-to-cancel.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/failure-to-cancel.bpel
+END
+failure-to-recovery.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/resources/recovery/failure-to-recovery.bpel
+END

@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+2011-02-25 13:48:03.572 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.1.2.1 - (330608): instance c013800d-012e-5d13-83a5-000001034d00
+on database directory /home/sander/workspaces/hbs4bpel/apache-ode-sources-1.2/dao-jpa-ojpa-derby/target/derby/jpadb 
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2011-02-25 13:48:09.509 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.1.2.1 - (330608): instance 266b0119-012e-5d13-83a5-000001034d00
+on database directory /home/sander/workspaces/hbs4bpel/apache-ode-sources-1.2/dao-hibernate-db/target/derby/hibdb 
+
+Database Class Loader started - derby.database.classpath=''

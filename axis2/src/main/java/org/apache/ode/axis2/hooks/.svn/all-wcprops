@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks
+END
+SessionInHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/SessionInHandler.java
+END
+ODEAxisDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/ODEAxisDispatcher.java
+END
+ODEMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/ODEMessageReceiver.java
+END
+ODEAxisServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/ODEAxisServlet.java
+END
+ODEAxisService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/ODEAxisService.java
+END
+SessionOutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/hooks/SessionOutHandler.java
+END

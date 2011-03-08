@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao
+END
+PartnerLinkDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/PartnerLinkDAOImpl.java
+END
+MessageRouteDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/MessageRouteDaoImpl.java
+END
+FaultDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/FaultDaoImpl.java
+END
+BpelDAOConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/BpelDAOConnectionFactoryImpl.java
+END
+ProcessInstanceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/ProcessInstanceDaoImpl.java
+END
+MessageDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/MessageDAOImpl.java
+END
+CorrelatorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/CorrelatorDaoImpl.java
+END
+MessageExchangeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/MessageExchangeDAOImpl.java
+END
+DaoBaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/DaoBaseImpl.java
+END
+ProcessDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/ProcessDaoImpl.java
+END
+ScopeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/ScopeDaoImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/package.html
+END
+BpelDAOConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/BpelDAOConnectionImpl.java
+END
+IdGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/IdGen.java
+END
+CorrelationSetDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/CorrelationSetDaoImpl.java
+END
+XmlDataDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/memdao/XmlDataDaoImpl.java
+END

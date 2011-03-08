@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch
+END
+test.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/test.wsdl
+END
+Switch3.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/Switch3.bpel
+END
+Switch2.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/Switch2.bpel
+END
+inMsg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/inMsg.xml
+END
+Switch1.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/Switch1.bpel
+END
+unit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/switch/unit.properties
+END

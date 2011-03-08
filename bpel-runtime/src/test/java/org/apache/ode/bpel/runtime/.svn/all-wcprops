@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/runtime
+END
+ActivityRecoveryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/runtime/ActivityRecoveryTest.java
+END
+CoreBpelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/runtime/CoreBpelTest.java
+END
+ProcessManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/runtime/ProcessManagementTest.java
+END
+MockBpelServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/runtime/MockBpelServer.java
+END

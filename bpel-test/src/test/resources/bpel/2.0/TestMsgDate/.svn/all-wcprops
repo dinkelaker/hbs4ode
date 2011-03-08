@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/deploy.xml
+END
+NewXMLSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/NewXMLSchema.xsd
+END
+BugFromNodeDateTimeToWait-Pool.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/BugFromNodeDateTimeToWait-Pool.wsdl
+END
+BugFromNodeDateTimeToWait-Pool.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/BugFromNodeDateTimeToWait-Pool.bpel
+END
+BugFromNodeDateTimeToWait.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/BugFromNodeDateTimeToWait.wsdl
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestMsgDate/test.properties
+END

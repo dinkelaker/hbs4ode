@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/bpelc/ant
+END
+BpelSrcElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/bpelc/ant/BpelSrcElement.java
+END
+BpelCTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/bpelc/ant/BpelCTask.java
+END
+WsdlImportElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/bpelc/ant/WsdlImportElement.java
+END

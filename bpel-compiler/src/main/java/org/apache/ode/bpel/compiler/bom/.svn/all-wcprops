@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom
+END
+Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Activity.java
+END
+DOMBuilderContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/DOMBuilderContentHandler.java
+END
+Query11.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Query11.java
+END
+CompensateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CompensateActivity.java
+END
+ToFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ToFrom.java
+END
+VariableVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/VariableVal.java
+END
+WaitActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/WaitActivity.java
+END
+ExtensionVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ExtensionVal.java
+END
+WhileActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/WhileActivity.java
+END
+Catch.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Catch.java
+END
+To.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/To.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Expression.java
+END
+LinkSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/LinkSource.java
+END
+BpelObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/BpelObject.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Scope.java
+END
+LocalEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/LocalEntityResolver.java
+END
+ReceiveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ReceiveActivity.java
+END
+Correlations.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Correlations.java
+END
+Bpel11QNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Bpel11QNames.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Query.java
+END
+Import.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Import.java
+END
+VariableVal11.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/VariableVal11.java
+END
+SwitchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/SwitchActivity.java
+END
+Correlation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Correlation.java
+END
+Targets.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Targets.java
+END
+CorrelationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CorrelationSet.java
+END
+CompletionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CompletionCondition.java
+END
+PartnerLinkVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PartnerLinkVal.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Variable.java
+END
+PartnerLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PartnerLinkType.java
+END
+Sources.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Sources.java
+END
+SequenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/SequenceActivity.java
+END
+FailureHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/FailureHandling.java
+END
+From.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/From.java
+END
+Bpel20QNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Bpel20QNames.java
+END
+OnMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/OnMessage.java
+END
+TerminationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/TerminationHandler.java
+END
+CommunicationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CommunicationHelper.java
+END
+ScopeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ScopeActivity.java
+END
+PartnerLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PartnerLink.java
+END
+RdfLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/RdfLabel.java
+END
+ExtensibilityQNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ExtensibilityQNames.java
+END
+CreateInstanceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CreateInstanceActivity.java
+END
+AssignActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/AssignActivity.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/package.html
+END
+OnEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/OnEvent.java
+END
+PropertyAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PropertyAlias.java
+END
+Links.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Links.java
+END
+Variables.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Variables.java
+END
+Communication.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Communication.java
+END
+BpelObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/BpelObjectFactory.java
+END
+Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Copy.java
+END
+CorrelationSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CorrelationSets.java
+END
+CompensationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CompensationHandler.java
+END
+PickActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PickActivity.java
+END
+TerminateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/TerminateActivity.java
+END
+Process.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Process.java
+END
+CompensateScopeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CompensateScopeActivity.java
+END
+IfActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/IfActivity.java
+END
+PropertyVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PropertyVal.java
+END
+LinkTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/LinkTarget.java
+END
+FaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/FaultHandler.java
+END
+InvokeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/InvokeActivity.java
+END
+BpelObject4WSDL.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/BpelObject4WSDL.java
+END
+RethrowActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/RethrowActivity.java
+END
+WhileActivity11.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/WhileActivity11.java
+END
+FlowActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/FlowActivity.java
+END
+EmptyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/EmptyActivity.java
+END
+PropertyAlias11.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PropertyAlias11.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Link.java
+END
+ScopeLikeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ScopeLikeActivity.java
+END
+ReplyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ReplyActivity.java
+END
+ForEachActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ForEachActivity.java
+END
+Expression11.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Expression11.java
+END
+JoinFailureSuppressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/JoinFailureSuppressor.java
+END
+CompositeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/CompositeActivity.java
+END
+ThrowActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/ThrowActivity.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/Property.java
+END
+LiteralVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/LiteralVal.java
+END
+RepeatUntilActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/RepeatUntilActivity.java
+END
+OnAlarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/OnAlarm.java
+END
+PartnerLinks.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/bom/PartnerLinks.java
+END

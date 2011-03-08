@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/deploy.xml
+END
+BugCastDayTimeDurationToDuration-Pool.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/BugCastDayTimeDurationToDuration-Pool.wsdl
+END
+BugCastDayTimeDurationToDuration-Pool.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/BugCastDayTimeDurationToDuration-Pool.bpel
+END
+BugCastDayTimeDurationToDuration-Pool.deploy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/BugCastDayTimeDurationToDuration-Pool.deploy
+END
+BugCastDayTimeDurationToDuration.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/BugCastDayTimeDurationToDuration.wsdl
+END
+duration.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/duration.xsd
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestDuration/test.properties
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex
+END
+ComplexVariables-Variable.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/ComplexVariables-Variable.wsdl
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/deploy.xml
+END
+ComplexVariables-Variable.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/ComplexVariables-Variable.bpel
+END
+ComplexVariables-Variable.deploy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/ComplexVariables-Variable.deploy
+END
+Assignment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/Assignment.xsd
+END
+ComplexVariables.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/ComplexVariables.wsdl
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestAssignComplex/test.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestImplicitFaultHandler
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestImplicitFaultHandler/deploy.xml
+END
+TestImplicitFaultHandler.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestImplicitFaultHandler/TestImplicitFaultHandler.wsdl
+END
+TestImplicitFaultHandler.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestImplicitFaultHandler/TestImplicitFaultHandler.bpel
+END

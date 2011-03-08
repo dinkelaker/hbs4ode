@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/test/resources
+END
+carol.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/test/resources/carol.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/test/resources/log4j.properties
+END
+HelloWorldRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/test/resources/HelloWorldRequest.xml
+END

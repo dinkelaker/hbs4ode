@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/deploy.xml
+END
+test3.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/test3.properties
+END
+test2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/test2.properties
+END
+test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/test1.properties
+END
+TestStaticOnMessage.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/TestStaticOnMessage.wsdl
+END
+TestStaticOnMessage.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/TestStaticOnMessage.bpel
+END
+test5.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/test5.properties
+END
+test4.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestStaticOnMessage/test4.properties
+END

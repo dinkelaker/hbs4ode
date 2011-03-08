@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources/complexImport/dir1/dir11
+END
+baz.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources/complexImport/dir1/dir11/baz.xsd
+END
+foo.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/test/resources/complexImport/dir1/dir11/foo.wsdl
+END

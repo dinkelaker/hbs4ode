@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/il/dbutil
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/il/dbutil/Messages.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/il/dbutil/Database.java
+END
+DatabaseConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/il/dbutil/DatabaseConfigException.java
+END

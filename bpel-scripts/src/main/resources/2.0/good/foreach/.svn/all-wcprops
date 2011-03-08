@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach
+END
+test.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/test.wsdl
+END
+ForEach3-2.0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/ForEach3-2.0.bpel
+END
+ForEach2-2.0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/ForEach2-2.0.bpel
+END
+ForEach1-2.0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/ForEach1-2.0.bpel
+END
+inMsg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/inMsg.xml
+END
+3.tdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/3.tdef
+END
+2.tdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/2.tdef
+END
+1.tdef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/foreach/1.tdef
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/jbi
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/jbi/ehcache.xml
+END
+ode-jbi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/jbi/ode-jbi.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/jbi/hibernate.properties
+END

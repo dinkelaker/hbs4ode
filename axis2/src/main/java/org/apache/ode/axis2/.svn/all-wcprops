@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2
+END
+SoapExternalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/SoapExternalService.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/Messages.java
+END
+BindingContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/BindingContextImpl.java
+END
+ExternalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/ExternalService.java
+END
+EndpointReferenceContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/EndpointReferenceContextImpl.java
+END
+ODEConfigProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/ODEConfigProperties.java
+END
+MessageExchangeContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/MessageExchangeContextImpl.java
+END
+ODEService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/ODEService.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/Properties.java
+END
+ODEServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/ODEServer.java
+END
+OdeFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/OdeFault.java
+END

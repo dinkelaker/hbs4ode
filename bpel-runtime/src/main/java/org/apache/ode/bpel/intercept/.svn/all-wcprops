@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept
+END
+ThrottlingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/ThrottlingInterceptor.java
+END
+MessageExchangeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/MessageExchangeInterceptor.java
+END
+FaultMessageExchangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/FaultMessageExchangeException.java
+END
+InterceptorInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/InterceptorInvoker.java
+END
+AbortMessageExchangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/AbortMessageExchangeException.java
+END
+FailMessageExchangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/FailMessageExchangeException.java
+END
+NoOpInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/intercept/NoOpInterceptor.java
+END

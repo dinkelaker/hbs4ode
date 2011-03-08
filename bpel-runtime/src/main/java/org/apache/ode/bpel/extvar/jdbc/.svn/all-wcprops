@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc
+END
+JdbcExternalVariableModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/JdbcExternalVariableModule.java
+END
+EVarId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/EVarId.java
+END
+RowSubset.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/RowSubset.java
+END
+InitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/InitType.java
+END
+GenType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/GenType.java
+END
+ExternalVariableKeyMapSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/ExternalVariableKeyMapSerializer.java
+END
+DbExternalVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/extvar/jdbc/DbExternalVariable.java
+END

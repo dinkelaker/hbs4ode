@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/xsd-import
+END
+message.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/xsd-import/message.xsd
+END
+helloworld.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/xsd-import/helloworld.wsdl
+END
+helloworld-Server.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/xsd-import/helloworld-Server.wsdl
+END
+helloworld-Server.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/2.0/good/xsd-import/helloworld-Server.bpel
+END

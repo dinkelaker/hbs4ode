@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/elang/xpath20/runtime
+END
+FunctionHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/elang/xpath20/runtime/FunctionHelperTest.java
+END
+XPath20ExpressionRuntimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/elang/xpath20/runtime/XPath20ExpressionRuntimeTest.java
+END
+MockCompilerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/elang/xpath20/runtime/MockCompilerContext.java
+END
+CombineUrlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/test/java/org/apache/ode/bpel/elang/xpath20/runtime/CombineUrlTest.java
+END

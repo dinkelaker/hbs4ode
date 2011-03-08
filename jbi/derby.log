@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2008-08-24 17:06:34.909 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.1.3 - (648739): instance a816c00e-011b-f5ae-6e96-000001bed980
+on database directory /home/sander/workspaces/ode/apache-ode-sources-1.2/jbi/target/smixInstallDir/install/ODE/jpadb  
+
+Database Class Loader started - derby.database.classpath=''

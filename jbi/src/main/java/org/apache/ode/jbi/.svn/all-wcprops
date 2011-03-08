@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/Receiver.java
+END
+OdeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeComponent.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/Messages.java
+END
+BindingContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/BindingContextImpl.java
+END
+MyEndpointReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/MyEndpointReference.java
+END
+JbiMessageExchangeEventRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/JbiMessageExchangeEventRouter.java
+END
+OdeServiceUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeServiceUnit.java
+END
+DynamicMessageExchangeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/DynamicMessageExchangeProcessor.java
+END
+OdeConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeConsumer.java
+END
+MessageExchangePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/MessageExchangePattern.java
+END
+OdeConfigProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeConfigProperties.java
+END
+MessageExchangeContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/MessageExchangeContextImpl.java
+END
+JbiEndpointReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/JbiEndpointReference.java
+END
+OdeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeService.java
+END
+OdeConsumerSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeConsumerSync.java
+END
+OdeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeContext.java
+END
+OdeBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeBootstrap.java
+END
+ServiceBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/ServiceBridge.java
+END
+OdeSUManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeSUManager.java
+END
+OdeLifeCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeLifeCycle.java
+END
+JbiMessageExchangeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/JbiMessageExchangeProcessor.java
+END
+BaseMessageExchangeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/BaseMessageExchangeProcessor.java
+END
+EndpointReferenceContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/EndpointReferenceContextImpl.java
+END
+OdeConsumerAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/OdeConsumerAsync.java
+END

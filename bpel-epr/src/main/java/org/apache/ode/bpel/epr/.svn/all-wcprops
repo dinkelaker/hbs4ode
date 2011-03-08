@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr
+END
+MutableEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/MutableEndpoint.java
+END
+WSAEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/WSAEndpoint.java
+END
+WSDL11Endpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/WSDL11Endpoint.java
+END
+WSDL20Endpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/WSDL20Endpoint.java
+END
+EndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/EndpointFactory.java
+END
+URLEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-epr/src/main/java/org/apache/ode/bpel/epr/URLEndpoint.java
+END

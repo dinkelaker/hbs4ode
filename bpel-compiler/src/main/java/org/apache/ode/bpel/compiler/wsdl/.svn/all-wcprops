@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl
+END
+InvalidBpelPropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/InvalidBpelPropertyException.java
+END
+InvalidBpelRoleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/InvalidBpelRoleException.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/Messages.java
+END
+WSDLFactoryBPEL20Draft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLFactoryBPEL20Draft.java
+END
+WSDLReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLReaderImpl.java
+END
+WSDLFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLFactoryImpl.java
+END
+XMLSchemaTypeSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/XMLSchemaTypeSerializer.java
+END
+WSDLFactory4BPEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLFactory4BPEL.java
+END
+InvalidBpelPropertyAliasException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/InvalidBpelPropertyAliasException.java
+END
+InvalidBpelPartnerLinkTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/InvalidBpelPartnerLinkTypeException.java
+END
+BpelExtensionSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/BpelExtensionSerializer.java
+END
+WSDLFactoryBPEL11.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLFactoryBPEL11.java
+END
+WSDLFactoryBPEL20.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/WSDLFactoryBPEL20.java
+END
+Definition4BPELImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/Definition4BPELImpl.java
+END
+Definition4BPEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/Definition4BPEL.java
+END
+XMLSchemaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/compiler/wsdl/XMLSchemaType.java
+END

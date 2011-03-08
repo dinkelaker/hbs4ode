@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ql
+END
+HibernateInstancesQueryCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ql/HibernateInstancesQueryCompiler.java
+END
+StateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ql/StateComparator.java
+END

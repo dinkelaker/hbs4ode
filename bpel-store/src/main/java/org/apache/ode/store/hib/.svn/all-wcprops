@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib
+END
+ProcessConfDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/ProcessConfDaoImpl.java
+END
+DbConfStoreConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/DbConfStoreConnectionFactory.java
+END
+DeploymentUnitDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/DeploymentUnitDaoImpl.java
+END
+ConfStoreConnectionHib.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/ConfStoreConnectionHib.java
+END
+HibObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/HibObj.java
+END
+VersionTrackerDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-store/src/main/java/org/apache/ode/store/hib/VersionTrackerDAOImpl.java
+END

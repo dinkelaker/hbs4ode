@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history
+END
+ODECollectStaticProcessFactsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODECollectStaticProcessFactsVisitor.java
+END
+ODEReadVarialeFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEReadVarialeFact.java
+END
+ODEDynamicFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEDynamicFact.java
+END
+ODEBpelProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEBpelProcess.java
+END
+ODEStaticActivityFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEStaticActivityFact.java
+END
+ODEPolicyViolationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEPolicyViolationHandler.java
+END
+ODEWriteVariableFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEWriteVariableFact.java
+END
+ODEInvokeFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEInvokeFact.java
+END
+ODEStaticInvokeFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tud/!svn/ver/173/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/runtime/history/ODEStaticInvokeFact.java
+END

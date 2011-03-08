@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers
+END
+base.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/base.wsdl
+END
+onmessage-1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/onmessage-1.wsdl
+END
+onmessage-1.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/onmessage-1.bpel
+END
+wrappers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/wrappers.xsd
+END
+schemas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/schemas.xml
+END
+onalarm-1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/onalarm-1.wsdl
+END
+onalarm-1.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/onalarm-1.bpel
+END
+unit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/unit.properties
+END
+inMsg1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/inMsg1.xml
+END
+inMsg2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/eventhandlers/inMsg2.xml
+END

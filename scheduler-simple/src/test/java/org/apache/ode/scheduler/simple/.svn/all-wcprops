@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple
+END
+SimpleSchedulerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple/SimpleSchedulerTest.java
+END
+DelegateSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple/DelegateSupport.java
+END
+RetriesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple/RetriesTest.java
+END
+SchedulerThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple/SchedulerThreadTest.java
+END
+JdbcDelegateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/scheduler-simple/src/test/java/org/apache/ode/scheduler/simple/JdbcDelegateTest.java
+END

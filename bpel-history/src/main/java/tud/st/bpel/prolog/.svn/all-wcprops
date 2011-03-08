@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog
+END
+IStaticProcessFactGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/IStaticProcessFactGenerator.java
+END
+BPELPrologEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/168/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/BPELPrologEngine.java
+END
+PolicyViolatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/168/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/PolicyViolatedException.java
+END
+IBPELPrologEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/IBPELPrologEngine.java
+END
+StaticProcessFactGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/StaticProcessFactGenerator.java
+END
+StaticProcessFacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/StaticProcessFacts.java
+END
+MalformedPolicyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/MalformedPolicyException.java
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/prolog/Policy.java
+END

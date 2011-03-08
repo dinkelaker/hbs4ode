@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/NegativeCorrelationTest
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/NegativeCorrelationTest/deploy.xml
+END
+test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/NegativeCorrelationTest/test1.properties
+END
+NegativeCorrelationTest.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/NegativeCorrelationTest/NegativeCorrelationTest.wsdl
+END
+NegativeCorrelationTest.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/NegativeCorrelationTest/NegativeCorrelationTest.bpel
+END

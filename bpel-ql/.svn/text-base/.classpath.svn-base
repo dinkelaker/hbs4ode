@@ -1,0 +1,16 @@
+<classpath>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="src/main/java" excluding="**/.svn/|**/CVS/"/>
+  <classpathentry kind="src" path="target/generated/javacc" excluding="**/.svn/|**/CVS/"/>
+  <classpathentry kind="src" path="target/generated/jjtree" excluding="**/.svn/|**/CVS/"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.3.1/junit-4.3.1.jar"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-api"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-compiler"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/bpel-obj"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/jacob"/>
+  <classpathentry kind="src" combineaccessrules="false" path="/utils"/>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" excluding="**/.svn/|**/CVS/"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/.svn/|**/CVS/"/>
+</classpath>

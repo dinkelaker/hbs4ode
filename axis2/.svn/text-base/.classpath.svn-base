@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.3/commons-codec-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.0/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.1/commons-lang-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/geronimo-spec/geronimo-spec-javamail/1.3.1-rc5/geronimo-spec-javamail-1.3.1-rc5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.3.1/junit-4.3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-adb/1.3/axis2-adb-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-codegen/1.3/axis2-codegen-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-java2wsdl/1.3/axis2-java2wsdl-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-jibx/1.3/axis2-jibx-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-kernel/1.3/axis2-kernel-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-saaj/1.3/axis2-saaj-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/axis2/axis2-xmlbeans/1.3/axis2-xmlbeans-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.4.1.3/derby-10.4.1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/components/geronimo-transaction/2.0.1/geronimo-transaction-2.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/modules/geronimo-kernel/2.0.1/geronimo-kernel-2.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-servlet_2.4_spec/1.0/geronimo-servlet_2.4_spec-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ws/commons/axiom/axiom-api/1.2.5/axiom-api-1.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ws/commons/axiom/axiom-dom/1.2.5/axiom-dom-1.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ws/commons/axiom/axiom-impl/1.2.5/axiom-impl-1.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ws/commons/schema/XmlSchema/1.3.2/XmlSchema-1.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jencks/jencks/1.3/jencks-1.3-all.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/woodstox/wstx-asl/3.2.1/wstx-asl-3.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/wsdl4j/wsdl4j/1.6.1/wsdl4j-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xerces/xercesImpl/2.9.0/xercesImpl-2.9.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-connector"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-dao"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-epr"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-runtime"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-schemas"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-store"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/scheduler-simple"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/utils"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-history"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

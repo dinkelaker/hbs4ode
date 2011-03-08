@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/fs
+END
+TempFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/fs/TempFileManager.java
+END
+FileWatchDog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/fs/FileWatchDog.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/fs/FileUtils.java
+END

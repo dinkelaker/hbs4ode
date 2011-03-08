@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test
+END
+DataHandling20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/DataHandling20Test.java
+END
+CompensationHandling20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/CompensationHandling20Test.java
+END
+MessageRouting20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/MessageRouting20Test.java
+END
+StructuredActivities20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/StructuredActivities20Test.java
+END
+BasicActivities20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/BasicActivities20Test.java
+END
+ExternalVariableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/ExternalVariableTest.java
+END
+FaultHandling20Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/FaultHandling20Test.java
+END
+VersionedRedeployTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/java/org/apache/ode/test/VersionedRedeployTest.java
+END

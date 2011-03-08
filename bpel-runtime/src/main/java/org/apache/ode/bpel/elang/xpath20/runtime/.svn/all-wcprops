@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/elang/xpath20/runtime
+END
+JaxpFunctionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/elang/xpath20/runtime/JaxpFunctionResolver.java
+END
+XslRuntimeUriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/elang/xpath20/runtime/XslRuntimeUriResolver.java
+END
+XPath20ExpressionRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/elang/xpath20/runtime/XPath20ExpressionRuntime.java
+END
+JaxpVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-runtime/src/main/java/org/apache/ode/bpel/elang/xpath20/runtime/JaxpVariableResolver.java
+END

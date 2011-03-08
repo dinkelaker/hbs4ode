@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli
+END
+FlagWithArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/FlagWithArgument.java
+END
+CommandlineFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/CommandlineFragment.java
+END
+Argument.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/Argument.java
+END
+CommandlineSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/CommandlineSyntaxException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/package.html
+END
+Flag.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/Flag.java
+END
+CommandLineMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/CommandLineMessages.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/Main.java
+END
+BaseCommandlineTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/BaseCommandlineTool.java
+END
+MultiArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/MultiArgument.java
+END
+XorGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/XorGroup.java
+END
+ConsoleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/ConsoleFormatter.java
+END
+Fragments.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/Fragments.java
+END
+LastArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/cli/LastArgument.java
+END

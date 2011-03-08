@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra
+END
+ServiceProviderSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/ServiceProviderSession.java
+END
+OdeConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionManager.java
+END
+ConnectionEventListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/ConnectionEventListenerSupport.java
+END
+OdeConnectionRequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionRequestInfo.java
+END
+OdeConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnection.java
+END
+OdeConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionImpl.java
+END
+OdeManagedConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeManagedConnectionImpl.java
+END
+OdeManagedConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeManagedConnectionFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/package.html
+END
+OdeConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionFactory.java
+END
+OdeConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionFactoryImpl.java
+END
+DummyResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/DummyResourceAdapter.java
+END
+OdeConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/OdeConnectionException.java
+END

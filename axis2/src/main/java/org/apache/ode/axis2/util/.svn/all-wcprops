@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util
+END
+WLSFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/WLSFactory.java
+END
+URLEncodedTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/URLEncodedTransformer.java
+END
+TomcatFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/TomcatFactory.java
+END
+UrlReplacementTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/UrlReplacementTransformer.java
+END
+SoapMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/SoapMessageConverter.java
+END
+JBossFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/JBossFactory.java
+END
+GeronimoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/GeronimoFactory.java
+END
+Axis2WSDLLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/Axis2WSDLLocator.java
+END
+Axis2UriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2/src/main/java/org/apache/ode/axis2/util/Axis2UriResolver.java
+END

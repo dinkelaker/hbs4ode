@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/wait
+END
+inMsg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/wait/inMsg.xml
+END
+Wait1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/wait/Wait1.wsdl
+END
+Wait1.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/wait/Wait1.bpel
+END
+unit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-scripts/src/main/resources/1.1/good/wait/unit.properties
+END

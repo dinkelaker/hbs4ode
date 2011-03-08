@@ -1,0 +1,7 @@
+2008-11-27 13:43:24,361 WARN  [DefaultSoapUICore] Missing folder [/home/sander/workspaces/ode/apache-ode-sources-1.2/ext] for external libraries
+2008-11-27 13:43:26,905 INFO  [DefaultSoapUICore] Creating new settings at [/home/sander/workspaces/ode/apache-ode-sources-1.2/soapui-settings.xml]
+2008-11-27 13:43:30,124 INFO  [WorkspaceImpl] Loading workspace from [/home/sander/default-soapui-workspace.xml]
+2008-11-27 13:43:30,839 INFO  [WsdlProject] Loaded project from [file:/home/sander/HelloWorld-soapui-project.xml]
+2008-11-27 21:52:58,899 INFO  [DefaultSoapUICore] Settings saved to [/home/sander/workspaces/ode/apache-ode-sources-1.2/soapui-settings.xml]
+2008-11-27 21:52:59,054 INFO  [WsdlProject] Saved project [HelloWorld] to [/home/sander/HelloWorld-soapui-project.xml - 10294 bytes
+2008-11-27 21:52:59,141 INFO  [WorkspaceImpl] Saved workspace to [/home/sander/default-soapui-workspace.xml]

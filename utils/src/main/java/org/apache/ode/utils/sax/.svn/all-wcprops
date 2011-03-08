@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/sax
+END
+PrintErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/sax/PrintErrorHandler.java
+END
+FailOnErrorErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/sax/FailOnErrorErrorHandler.java
+END
+IgnoreAllErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/sax/IgnoreAllErrorHandler.java
+END
+LoggingErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/sax/LoggingErrorHandler.java
+END

@@ -1,0 +1,469 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+
+package org.apache.ode.axis2;
+
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.Map;
+import java.util.HashMap;
+import java.io.File;
+import java.io.InputStream;
+
+import javax.wsdl.Definition;
+import javax.wsdl.Fault;
+import javax.wsdl.Operation;
+import javax.xml.namespace.QName;
+
+import org.apache.axiom.soap.SOAPEnvelope;
+import org.apache.axis2.AxisFault;
+import org.apache.axis2.deployment.ServiceBuilder;
+import org.apache.axis2.addressing.EndpointReference;
+import org.apache.axis2.client.OperationClient;
+import org.apache.axis2.client.Options;
+import org.apache.axis2.client.ServiceClient;
+import org.apache.axis2.context.ConfigurationContext;
+import org.apache.axis2.context.MessageContext;
+import org.apache.axis2.engine.AxisConfiguration;
+import org.apache.axis2.wsdl.WSDLConstants;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.apache.ode.axis2.util.SoapMessageConverter;
+import org.apache.ode.bpel.epr.EndpointFactory;
+import org.apache.ode.bpel.epr.MutableEndpoint;
+import org.apache.ode.bpel.epr.WSAEndpoint;
+import org.apache.ode.bpel.epr.WSDL11Endpoint;
+import org.apache.ode.bpel.iapi.BpelServer;
+import org.apache.ode.bpel.iapi.Message;
+import org.apache.ode.bpel.iapi.MessageExchange;
+import org.apache.ode.bpel.iapi.PartnerRoleMessageExchange;
+import org.apache.ode.bpel.iapi.Scheduler;
+import org.apache.ode.bpel.iapi.ProcessConf;
+import org.apache.ode.bpel.iapi.MessageExchange.FailureType;
+import org.apache.ode.il.OMUtils;
+import org.apache.ode.utils.DOMUtils;
+import org.apache.ode.utils.Namespaces;
+import org.apache.ode.utils.WatchDog;
+import org.apache.ode.utils.CollectionUtils;
+import org.apache.ode.utils.fs.FileWatchDog;
+import org.apache.ode.utils.wsdl.Messages;
+import org.apache.ode.utils.uuid.UUID;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+
+/**
+ * Acts as a service not provided by ODE. Used mainly for invocation as a way to maintain the WSDL description of used
+ * services.
+ *
+ * @author Matthieu Riou <mriou at apache dot org>
+ */
+public class SoapExternalService implements ExternalService {
+
+    private static final Log __log = LogFactory.getLog(SoapExternalService.class);
+
+    private static final org.apache.ode.utils.wsdl.Messages msgs = Messages.getMessages(Messages.class);
+
+
+    private static final int EXPIRE_SERVICE_CLIENT = 30000;
+
+    private static ThreadLocal<CachedOptions> _cachedOptions = new ThreadLocal<CachedOptions>();
+    private static ThreadLocal<CachedServiceClient> _cachedClients = new ThreadLocal<CachedServiceClient>();
+
+    private ExecutorService _executorService;
+    private Definition _definition;
+    private QName _serviceName;
+    private String _portName;
+    protected WSAEndpoint endpointReference;
+    private AxisConfiguration _axisConfig;
+    private SoapMessageConverter _converter;
+    private Scheduler _sched;
+    private BpelServer _server;
+    private ProcessConf _pconf;
+
+    public SoapExternalService(ProcessConf pconf, QName serviceName, String portName, ExecutorService executorService,
+                               AxisConfiguration axisConfig, Scheduler sched, BpelServer server) throws AxisFault {
+        _definition = pconf.getDefinitionForService(serviceName);
+        _serviceName = serviceName;
+        _portName = portName;
+        _executorService = executorService;
+        _axisConfig = axisConfig;
+        _sched = sched;
+        _converter = new SoapMessageConverter(_definition, serviceName, portName);
+        _server = server;
+        _pconf = pconf;
+
+        // initial endpoint reference
+        Element eprElmt = ODEService.genEPRfromWSDL(_definition, serviceName, portName);
+        if (eprElmt == null)
+            throw new IllegalArgumentException(msgs.msgPortDefinitionNotFound(serviceName, portName));
+        endpointReference = EndpointFactory.convertToWSA(ODEService.createServiceRef(eprElmt));
+    }
+
+    public void invoke(final PartnerRoleMessageExchange odeMex) {
+        boolean isTwoWay = odeMex.getMessageExchangePattern() == org.apache.ode.bpel.iapi.MessageExchange.MessageExchangePattern.REQUEST_RESPONSE;
+        try {
+            // Override options are passed to the axis MessageContext so we can
+            // retrieve them in our session out handler.
+            MessageContext mctx = new MessageContext();
+            writeHeader(mctx, odeMex);
+
+            _converter.createSoapRequest(mctx, odeMex.getRequest(), odeMex.getOperation());
+
+            SOAPEnvelope soapEnv = mctx.getEnvelope();
+            EndpointReference axisEPR = new EndpointReference(((MutableEndpoint) odeMex.getEndpointReference())
+                    .getUrl());
+            if (__log.isDebugEnabled()) {
+                __log.debug("Axis2 sending message to " + axisEPR.getAddress() + " using MEX " + odeMex);
+                __log.debug("Message: " + soapEnv);
+            }
+
+
+            ServiceClient client = getCachedServiceClient().client;
+            final OperationClient operationClient = client.createClient(isTwoWay ? ServiceClient.ANON_OUT_IN_OP
+                    : ServiceClient.ANON_OUT_ONLY_OP);
+            operationClient.addMessageContext(mctx);
+            // this Options can be alter without impacting the ServiceClient options (which is a requirement)
+            Options operationOptions = operationClient.getOptions();
+            operationOptions.setAction(mctx.getSoapAction());
+            operationOptions.setTo(axisEPR);
+
+
+            if (isTwoWay) {
+                final String mexId = odeMex.getMessageExchangeId();
+                final Operation operation = odeMex.getOperation();
+
+                // Defer the invoke until the transaction commits.
+                _sched.registerSynchronizer(new Scheduler.Synchronizer() {
+                    public void afterCompletion(boolean success) {
+                        // If the TX is rolled back, then we don't send the request.
+                        if (!success) return;
+
+                        // The invocation must happen in a separate thread, holding on the afterCompletion
+                        // blocks other operations that could have been listed there as well.
+                        _executorService.submit(new Callable<Object>() {
+                            public Object call() throws Exception {
+                                try {
+                                    operationClient.execute(true);
+                                    MessageContext response = operationClient.getMessageContext(WSDLConstants.MESSAGE_LABEL_IN_VALUE);
+                                    MessageContext flt = operationClient.getMessageContext(WSDLConstants.MESSAGE_LABEL_FAULT_VALUE);
+                                    if (response != null && __log.isDebugEnabled())
+                                        __log.debug("Service response:\n" + response.getEnvelope().toString());
+
+                                    if (flt != null) {
+                                        reply(mexId, operation, flt, true);
+                                    } else {
+                                        reply(mexId, operation, response, response.isFault());
+                                    }
+                                } catch (Throwable t) {
+                                    String errmsg = "Error sending message (mex=" + odeMex + "): " + t.getMessage();
+                                    __log.error(errmsg, t);
+                                    replyWithFailure(mexId, MessageExchange.FailureType.COMMUNICATION_ERROR, errmsg, null);
+                                }
+                                return null;
+                            }
+                        });
+                    }
+
+                    public void beforeCompletion() {
+                    }
+                });
+                odeMex.replyAsync();
+
+            } else { /** one-way case * */
+                _executorService.submit(new Callable<Object>() {
+                    public Object call() throws Exception {
+                        operationClient.execute(false);
+                        return null;
+                    }
+                });
+                odeMex.replyOneWayOk();
+            }
+        } catch (AxisFault axisFault) {
+            String errmsg = "Error sending message to Axis2 for ODE mex " + odeMex;
+            __log.error(errmsg, axisFault);
+            odeMex.replyWithFailure(MessageExchange.FailureType.COMMUNICATION_ERROR, errmsg, null);
+        }
+    }
+
+    private CachedServiceClient getCachedServiceClient() throws AxisFault {
+        CachedServiceClient cachedServiceClient = _cachedClients.get();
+        if (cachedServiceClient == null) {
+            cachedServiceClient = new CachedServiceClient(new File(_pconf.getBaseURI().resolve(_serviceName.getLocalPart() + ".axis2")), EXPIRE_SERVICE_CLIENT);
+            _cachedClients.set(cachedServiceClient);
+        }
+        try {
+            // call manually the check procedure
+            // we dont want a dedicated thread for that
+            cachedServiceClient.check();
+        } catch (RuntimeException e) {
+            throw AxisFault.makeFault(e.getCause() != null ? e.getCause() : e);
+        }
+
+        SoapExternalService.CachedOptions cachedOptions = _cachedOptions.get();
+        if (cachedOptions == null) {
+            cachedOptions = new CachedOptions();
+            _cachedOptions.set(cachedOptions);
+        }
+        cachedOptions.check();
+
+        // apply the options to the service client
+        cachedServiceClient.client.setOptions(cachedOptions.options);
+        return cachedServiceClient;
+    }
+
+    /**
+     * Extracts the action to be used for the given operation.  It first checks to see
+     * if a value is specified using WS-Addressing in the portType, it then falls back onto
+     * getting it from the SOAP Binding.
+     *
+     * @param operation the name of the operation to get the Action for
+     * @return The action value for the specified operation
+     */
+    private String getAction(String operation) {
+        String action = _converter.getWSAInputAction(operation);
+        if (action == null || "".equals(action)) {
+            action = _converter.getSoapAction(operation);
+        }
+        return action;
+    }
+
+    /**
+     * Extracts endpoint information from ODE message exchange to stuff them into Axis MessageContext.
+     */
+    private void writeHeader(MessageContext ctxt, PartnerRoleMessageExchange odeMex) {
+        Options options = ctxt.getOptions();
+        WSAEndpoint targetEPR = EndpointFactory.convertToWSA((MutableEndpoint) odeMex.getEndpointReference());
+        WSAEndpoint myRoleEPR = EndpointFactory.convertToWSA((MutableEndpoint) odeMex.getMyRoleEndpointReference());
+
+        String partnerSessionId = odeMex.getProperty(MessageExchange.PROPERTY_SEP_PARTNERROLE_SESSIONID);
+        String myRoleSessionId = odeMex.getProperty(MessageExchange.PROPERTY_SEP_MYROLE_SESSIONID);
+
+        if (partnerSessionId != null) {
+            if (__log.isDebugEnabled()) {
+                __log.debug("Partner session identifier found for WSA endpoint: " + partnerSessionId);
+            }
+            targetEPR.setSessionId(partnerSessionId);
+        }
+        options.setProperty("targetSessionEndpoint", targetEPR);
+
+        if (myRoleEPR != null) {
+            if (myRoleSessionId != null) {
+                if (__log.isDebugEnabled()) {
+                    __log.debug("MyRole session identifier found for myrole (callback) WSA endpoint: "
+                            + myRoleSessionId);
+                }
+                myRoleEPR.setSessionId(myRoleSessionId);
+            }
+            options.setProperty("callbackSessionEndpoint", odeMex.getMyRoleEndpointReference());
+        } else {
+            __log.debug("My-Role EPR not specified, SEP will not be used.");
+        }
+
+        String action = getAction(odeMex.getOperationName());
+        ctxt.setSoapAction(action);
+
+        if (MessageExchange.MessageExchangePattern.REQUEST_RESPONSE == odeMex.getMessageExchangePattern()) {
+            EndpointReference annonEpr =
+                    new EndpointReference(Namespaces.WS_ADDRESSING_ANON_URI);
+            ctxt.setReplyTo(annonEpr);
+            ctxt.setMessageID("uuid:" + new UUID().toString());
+        }
+    }
+
+    public org.apache.ode.bpel.iapi.EndpointReference getInitialEndpointReference() {
+return endpointReference;
+    }
+
+    public void close() {
+        // nothing
+    }
+
+    public String getPortName() {
+        return _portName;
+    }
+
+    public QName getServiceName() {
+        return _serviceName;
+    }
+
+    private void replyWithFailure(final String odeMexId, final FailureType error, final String errmsg,
+                                  final Element details) {
+        // ODE MEX needs to be invoked in a TX.
+        try {
+            _sched.execIsolatedTransaction(new Callable<Void>() {
+                public Void call() throws Exception {
+                    PartnerRoleMessageExchange odeMex = (PartnerRoleMessageExchange) _server.getEngine().getMessageExchange(odeMexId);
+                    odeMex.replyWithFailure(error, errmsg, details);
+                    return null;
+                }
+            });
+
+        } catch (Exception e) {
+            String emsg = "Error executing replyWithFailure transaction; reply will be lost.";
+            __log.error(emsg, e);
+
+        }
+
+    }
+
+    private void reply(final String odeMexId, final Operation operation, final MessageContext reply, final boolean fault) {
+        // ODE MEX needs to be invoked in a TX.
+        try {
+            _sched.execIsolatedTransaction(new Callable<Void>() {
+                public Void call() throws Exception {
+                    PartnerRoleMessageExchange odeMex = (PartnerRoleMessageExchange) _server.getEngine().getMessageExchange(odeMexId);
+                    // Setting the response
+                    try {
+                        if (__log.isDebugEnabled()) __log.debug("Received response for MEX " + odeMex);
+                        if (fault) {
+                            Document odeMsg = DOMUtils.newDocument();
+                            Element odeMsgEl = odeMsg.createElementNS(null, "message");
+                            odeMsg.appendChild(odeMsgEl);
+                            QName faultType = _converter.parseSoapFault(odeMsgEl, reply.getEnvelope(), operation);
+                            if (__log.isDebugEnabled()) __log.debug("Reply is a fault, found type: " + faultType);
+
+                            if (faultType != null) {
+                                if (__log.isWarnEnabled())
+                                    __log.warn("Fault response: faultType=" + faultType + "\n" + DOMUtils.domToString(odeMsgEl));
+                                Message response = odeMex.createMessage(faultType);
+                                response.setMessage(odeMsgEl);
+
+                                odeMex.replyWithFault(faultType, response);
+                            } else {
+                                if (__log.isWarnEnabled())
+                                    __log.warn("Fault response: faultType=(unkown)\n" + reply.getEnvelope().toString());
+                                odeMex.replyWithFailure(FailureType.OTHER, reply.getEnvelope().getBody()
+                                        .getFault().getText(), OMUtils.toDOM(reply.getEnvelope().getBody()));
+                            }
+                        } else {
+                            Message response = odeMex.createMessage(odeMex.getOperation().getOutput().getMessage().getQName());
+                            _converter.parseSoapResponse(response, reply.getEnvelope(), operation);
+                            if (__log.isInfoEnabled()) __log.info("Response:\n" + (response.getMessage() != null ?
+                                    DOMUtils.domToString(response.getMessage()) : "empty"));
+                            odeMex.reply(response);
+                        }
+                    } catch (Exception ex) {
+                        String errmsg = "Unable to process response: " + ex.getMessage();
+                        __log.error(errmsg, ex);
+                        odeMex.replyWithFailure(FailureType.OTHER, errmsg, null);
+                    }
+                    return null;
+                }
+            });
+
+        } catch (Exception e) {
+            String errmsg = "Error executing reply transaction; reply will be lost.";
+            __log.error(errmsg, e);
+        }
+
+    }
+
+
+    /**
+     * This class wraps a {@link org.apache.axis2.client.ServiceClient} and watches changes (deletions,creations,updates)
+     * on a  Axis2 service config file named {service-name}.axis2.<p/>
+     * The {@link org.apache.axis2.client.ServiceClient} instance is created from the main Axis2 config instance and
+     * this service-specific config file.
+     */
+    private class CachedServiceClient extends FileWatchDog {
+        ServiceClient client;
+
+        protected CachedServiceClient(File file, long delay) {
+            super(file, delay);
+        }
+
+        protected boolean isInitialized() {
+            return client != null;
+        }
+
+        protected void init() {
+            try {
+                client = new ServiceClient(new ConfigurationContext(_axisConfig), null);
+            } catch (AxisFault axisFault) {
+                throw new RuntimeException(axisFault);
+            }
+        }
+
+        protected void doOnUpdate() {
+            // axis2 service configuration
+            // if the config file has been modified (i.e added or updated), re-create a ServiceClient
+            // and load the new config.
+            init(); // create a new ServiceClient instance
+            try {
+                InputStream ais = file.toURI().toURL().openStream();
+                if (ais != null) {
+                    if (__log.isDebugEnabled()) __log.debug("Configuring service " + _serviceName + " using: " + file);
+                    ServiceBuilder builder = new ServiceBuilder(ais, new ConfigurationContext(client.getAxisConfiguration()), client.getAxisService());
+                    builder.populateService(builder.buildOM());
+                }
+            } catch (Exception e) {
+                if (__log.isWarnEnabled()) __log.warn("Exception while configuring service: " + _serviceName, e);
+            }
+        }
+    }
+
+    private class CachedOptions extends WatchDog<Map> {
+
+        Options options;
+
+        private CachedOptions() {
+            super(new WatchDog.Mutable<Map>() {
+                // ProcessConf#getProperties(String...) cannot return ull (by contract)
+                public boolean exists() {
+                    return true;
+                }
+
+                public boolean hasChangedSince(Map since) {
+                    Map latest = lastModified();  // cannot be null but better be prepared
+                    // check if mappings are equal
+                    return !CollectionUtils.equals(latest, since);
+                }
+
+                public Map lastModified() {
+                    return _pconf.getEndpointProperties(endpointReference);
+                }
+            });
+        }
+
+        protected boolean isInitialized() {
+            return options != null;
+        }
+
+        protected void init() {
+            options = new Options();
+        }
+
+        protected void doOnUpdate() {
+            init();
+
+            // note: don't make this map an instance attribute, so we always get the latest version
+            final Map<String, String> properties = _pconf.getEndpointProperties(endpointReference);
+            Properties.Axis2.translate(properties, options);
+
+            // set defaults values
+            options.setExceptionToBeThrownOnSOAPFault(false);
+
+            // this value does NOT override Properties.PROP_HTTP_CONNECTION_TIMEOUT
+            // nor Properties.PROP_HTTP_SOCKET_TIMEOUT.
+            // it will be applied only if the laters are not set.
+            options.setTimeOutInMilliSeconds(60000);
+        }
+    }
+
+}

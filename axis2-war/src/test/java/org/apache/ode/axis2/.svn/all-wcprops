@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2
+END
+ServiceFaultCatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/ServiceFaultCatchTest.java
+END
+DummyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/DummyService.java
+END
+SoapHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/SoapHeaderTest.java
+END
+XSDReferencesDeployTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/XSDReferencesDeployTest.java
+END
+DummyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/DummyException.java
+END
+Axis2TestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/Axis2TestBase.java
+END

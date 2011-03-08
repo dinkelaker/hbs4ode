@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools
+END
+CommandTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/CommandTask.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/package.html
+END
+ClineCommandContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/ClineCommandContext.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/Command.java
+END
+ExecutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/ExecutionException.java
+END
+CommandContextErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/CommandContextErrorHandler.java
+END
+CommandContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/CommandContext.java
+END
+ToolMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/tools/src/main/java/org/apache/ode/tools/ToolMessages.java
+END

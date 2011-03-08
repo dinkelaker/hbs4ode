@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup
+END
+Comm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/Comm.java
+END
+ReplacementMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/ReplacementMap.java
+END
+ExecutionQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/ExecutionQueue.java
+END
+ExecutionQueueObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/ExecutionQueueObject.java
+END
+CommChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/CommChannel.java
+END
+Continuation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/Continuation.java
+END
+CommSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/CommSend.java
+END
+CommGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/CommGroup.java
+END
+CommRecv.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jacob/src/main/java/org/apache/ode/jacob/soup/CommRecv.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd
+END
+DefaultXMLEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/DefaultXMLEntityResolver.java
+END
+XSTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/XSTypes.java
+END
+CapturingXMLEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/CapturingXMLEntityResolver.java
+END
+LoggingXmlErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/LoggingXmlErrorHandler.java
+END
+SchemaModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/SchemaModel.java
+END
+SchemaModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/SchemaModelImpl.java
+END
+XSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/XSUtils.java
+END
+XsdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/XsdException.java
+END
+XsdMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/XsdMessages.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/xsd/Duration.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-server/src/main/java/org/apache/ode/jca/server/rmi
+END
+RmiPipeServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-server/src/main/java/org/apache/ode/jca/server/rmi/RmiPipeServerImpl.java
+END
+RmiTransportServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-server/src/main/java/org/apache/ode/jca/server/rmi/RmiTransportServerImpl.java
+END

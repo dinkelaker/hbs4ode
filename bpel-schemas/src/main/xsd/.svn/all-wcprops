@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-schemas/src/main/xsd
+END
+pmapi.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-schemas/src/main/xsd/pmapi.xsd
+END
+pmapi.xsdconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-schemas/src/main/xsd/pmapi.xsdconfig
+END
+dd.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tud/!svn/ver/168/apache-ode-sources-1.2/bpel-schemas/src/main/xsd/dd.xsd
+END
+dd.xsdconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-schemas/src/main/xsd/dd.xsdconfig
+END

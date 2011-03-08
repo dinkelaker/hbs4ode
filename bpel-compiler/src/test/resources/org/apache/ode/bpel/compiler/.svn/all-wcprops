@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler
+END
+NoRootActivity.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/NoRootActivity.wsdl
+END
+DuplicateVariableDecl.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateVariableDecl.wsdl
+END
+UndeclaredVariable.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UndeclaredVariable.wsdl
+END
+DuplicateLinkDecl.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkDecl.wsdl
+END
+DuplicateLinkSource.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkSource.bpel
+END
+LinkMissingTargetActivity.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/LinkMissingTargetActivity.wsdl
+END
+CompensateNAtoContext.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/CompensateNAtoContext.wsdl
+END
+PortTypeMismatch.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/PortTypeMismatch.wsdl
+END
+UndeclaredPropertyAlias.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UndeclaredPropertyAlias.wsdl
+END
+UnknownBpelFunction.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UnknownBpelFunction.bpel
+END
+DuplicateLinkTarget.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkTarget.bpel
+END
+LinkMissingSourceActivity.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/LinkMissingSourceActivity.bpel
+END
+NoRootActivity.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/NoRootActivity.bpel
+END
+DuplicateLinkSource.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkSource.wsdl
+END
+DuplicateVariableDecl.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateVariableDecl.bpel
+END
+UndeclaredVariable.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UndeclaredVariable.bpel
+END
+DuplicateLinkDecl.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkDecl.bpel
+END
+LinkMissingTargetActivity.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/LinkMissingTargetActivity.bpel
+END
+CompensateNAtoContext.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/CompensateNAtoContext.bpel
+END
+PortTypeMismatch.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/PortTypeMismatch.bpel
+END
+UnknownBpelFunction.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UnknownBpelFunction.wsdl
+END
+UndeclaredPropertyAlias.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/UndeclaredPropertyAlias.bpel
+END
+LinkMissingSourceActivity.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/LinkMissingSourceActivity.wsdl
+END
+DuplicateLinkTarget.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/test/resources/org/apache/ode/bpel/compiler/DuplicateLinkTarget.wsdl
+END

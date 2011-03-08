@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/package.html
+END
+HibernateTransactionManagerLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/HibernateTransactionManagerLookup.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/SessionManager.java
+END
+DataSourceConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/DataSourceConnectionProvider.java
+END

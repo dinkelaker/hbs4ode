@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/XSDReferences/BPMN
+END
+NewDiagram2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/XSDReferences/BPMN/NewDiagram2.wsdl
+END
+NewDiagram2-Pool0.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/XSDReferences/BPMN/NewDiagram2-Pool0.wsdl
+END
+NewDiagram2-Pool0.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/XSDReferences/BPMN/NewDiagram2-Pool0.bpel
+END
+NewDiagram2-Pool0.deploy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/XSDReferences/BPMN/NewDiagram2-Pool0.deploy
+END

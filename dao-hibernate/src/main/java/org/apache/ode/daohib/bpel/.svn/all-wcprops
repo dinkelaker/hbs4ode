@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel
+END
+PartnerLinkDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/PartnerLinkDAOImpl.java
+END
+MessageRouteDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/MessageRouteDaoImpl.java
+END
+FaultDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/FaultDAOImpl.java
+END
+BpelDAOConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/BpelDAOConnectionFactoryImpl.java
+END
+ProcessInstanceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ProcessInstanceDaoImpl.java
+END
+ActivityRecoveryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ActivityRecoveryDaoImpl.java
+END
+MessageDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/MessageDaoImpl.java
+END
+CorrelatorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/CorrelatorDaoImpl.java
+END
+MessageExchangeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/MessageExchangeDaoImpl.java
+END
+ProcessDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ProcessDaoImpl.java
+END
+HibernateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/HibernateDao.java
+END
+ScopeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/ScopeDaoImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/package.html
+END
+CriteriaBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/CriteriaBuilder.java
+END
+BpelDAOConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/BpelDAOConnectionImpl.java
+END
+HibernateHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/HibernateHandle.java
+END
+CorrelationSetDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/CorrelationSetDaoImpl.java
+END
+XmlDataDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/src/main/java/org/apache/ode/daohib/bpel/XmlDataDaoImpl.java
+END

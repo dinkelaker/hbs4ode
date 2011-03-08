@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap
+END
+DocLitMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/DocLitMapper.java
+END
+JbiWsdl11WrapperMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/JbiWsdl11WrapperMapper.java
+END
+ServiceMixMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/ServiceMixMapper.java
+END
+BaseXmlMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/BaseXmlMapper.java
+END
+MessageTranslationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/MessageTranslationException.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jbi/src/main/java/org/apache/ode/jbi/msgmap/Mapper.java
+END

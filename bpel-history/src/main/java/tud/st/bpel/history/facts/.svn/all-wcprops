@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tud/!svn/ver/166/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts
+END
+ReadVariableFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/ReadVariableFact.java
+END
+DynamicFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/DynamicFact.java
+END
+BpelProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/BpelProcess.java
+END
+StaticActivityFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/StaticActivityFact.java
+END
+WriteVariableFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/WriteVariableFact.java
+END
+InvokeFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/InvokeFact.java
+END
+StaticInvokeFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/facts/StaticInvokeFact.java
+END

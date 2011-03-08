@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl
+END
+CompositeUnaryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/CompositeUnaryFunction.java
+END
+UnaryFunctionEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/UnaryFunctionEx.java
+END
+TransformIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/TransformIterator.java
+END
+IteratorEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/IteratorEnumeration.java
+END
+MemberOfFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/MemberOfFunction.java
+END
+BinaryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/BinaryFunction.java
+END
+EqualsUnaryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/EqualsUnaryFunction.java
+END
+UnaryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/UnaryFunction.java
+END
+FilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/FilterIterator.java
+END
+EnumerationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/EnumerationIterator.java
+END
+CollectionsX.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/utils/src/main/java/org/apache/ode/utils/stl/CollectionsX.java
+END

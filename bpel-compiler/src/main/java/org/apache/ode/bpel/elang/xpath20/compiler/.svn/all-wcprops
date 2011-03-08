@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/Constants.java
+END
+JaxpFunctionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/JaxpFunctionResolver.java
+END
+XPath20ExpressionCompilerBPEL20Draft.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/XPath20ExpressionCompilerBPEL20Draft.java
+END
+OdeXPathFunctionLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/OdeXPathFunctionLibrary.java
+END
+SaxonContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/SaxonContext.java
+END
+XPath20ExpressionCompilerBPEL20.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/XPath20ExpressionCompilerBPEL20.java
+END
+WrappedResolverException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/WrappedResolverException.java
+END
+XPath20ExpressionCompilerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/XPath20ExpressionCompilerImpl.java
+END
+JaxpVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath20/compiler/JaxpVariableResolver.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler
+END
+XslCompileUriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XslCompileUriResolver.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/Constants.java
+END
+JaxenBpelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/JaxenBpelHandler.java
+END
+XPath10ExpressionCompilerBPEL20Draft.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XPath10ExpressionCompilerBPEL20Draft.java
+END
+XslCompilationErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XslCompilationErrorListener.java
+END
+XPathMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XPathMessages.java
+END
+SourceLocatorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/SourceLocatorWrapper.java
+END
+XPath10ExpressionCompilerBPEL11.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XPath10ExpressionCompilerBPEL11.java
+END
+CompilationExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/CompilationExceptionWrapper.java
+END
+XPath10ExpressionCompilerBPEL20.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XPath10ExpressionCompilerBPEL20.java
+END
+XPath10ExpressionCompilerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-compiler/src/main/java/org/apache/ode/bpel/elang/xpath10/compiler/XPath10ExpressionCompilerImpl.java
+END

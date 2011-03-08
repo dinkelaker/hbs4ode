@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/main/webapp/WEB-INF/classes
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/main/webapp/WEB-INF/classes/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/main/webapp/WEB-INF/classes/log4j.properties
+END

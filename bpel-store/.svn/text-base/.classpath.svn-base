@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/1.5.3/asm-1.5.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib/2.1_3/cglib-2.1_3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.1/commons-lang-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/hsqldb/hsqldb/1.8.0.7/hsqldb-1.8.0.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jaxen/jaxen/1.1.1/jaxen-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.3.1/junit-4.3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.13/log4j-1.2.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/saxon/saxon-dom/8.7/saxon-dom-8.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/saxon/saxon-xpath/8.7/saxon-xpath-8.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/saxon/saxon/8.7/saxon-8.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/serp/serp/1.13.1/serp-1.13.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-j2ee-connector_1.5_spec/1.0/geronimo-j2ee-connector_1.5_spec-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ode/xalan/2.7.0/xalan-2.7.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/openjpa/openjpa/1.1.0/openjpa-1.1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate/3.2.5.ga/hibernate-3.2.5.ga.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/wsdl4j/wsdl4j/1.6.1/wsdl4j-1.6.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xerces/xercesImpl/2.9.0/xercesImpl-2.9.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-compiler"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-dao"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-epr"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-obj"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-schemas"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dao-hibernate"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/utils"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" path="src/main/resources"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/.svn/|**/CVS/" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bpel-history"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

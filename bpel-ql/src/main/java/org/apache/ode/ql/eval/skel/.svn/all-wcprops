@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel
+END
+DisjunctionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/DisjunctionEvaluator.java
+END
+AbstractCMPEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/AbstractCMPEvaluator.java
+END
+INEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/INEvaluator.java
+END
+OrderByEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/OrderByEvaluator.java
+END
+CMPEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/CMPEvaluator.java
+END
+CommandEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/CommandEvaluator.java
+END
+AbstractDisjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/AbstractDisjunction.java
+END
+AbstractContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/AbstractContainer.java
+END
+Identified.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/Identified.java
+END
+NestedCommandEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/NestedCommandEvaluator.java
+END
+ConjunctionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/ConjunctionEvaluator.java
+END
+LikeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/LikeEvaluator.java
+END
+CommandContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/CommandContainer.java
+END
+LEEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/LEEvaluator.java
+END
+LessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/LessEvaluator.java
+END
+GreaterEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/GreaterEvaluator.java
+END
+EqualityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/EqualityEvaluator.java
+END
+AbstractConjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/AbstractConjunction.java
+END
+AbstractEqualityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/AbstractEqualityEvaluator.java
+END
+GEEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/GEEvaluator.java
+END
+LogicEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-ql/src/main/java/org/apache/ode/ql/eval/skel/LogicEvaluator.java
+END

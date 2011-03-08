@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/transports
+END
+OdeTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/transports/OdeTransport.java
+END
+OdeTransportPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/jca-ra/src/main/java/org/apache/ode/ra/transports/OdeTransportPipe.java
+END

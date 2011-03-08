@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/management
+END
+RetireTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/management/RetireTest.java
+END
+InstanceManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/management/InstanceManagementTest.java
+END
+DeploymentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/java/org/apache/ode/axis2/management/DeploymentTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate
+END
+mvn-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/mvn-hibernate.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/dao-hibernate/.classpath
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick/deploy.xml
+END
+test2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick/test2.properties
+END
+test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick/test1.properties
+END
+TestInstantiatingPick.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick/TestInstantiatingPick.wsdl
+END
+TestInstantiatingPick.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/bpel-test/src/test/resources/bpel/2.0/TestInstantiatingPick/TestInstantiatingPick.bpel
+END

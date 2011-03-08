@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestInstanceRetire/2
+END
+deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestInstanceRetire/2/deploy.xml
+END
+TestRetire.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestInstanceRetire/2/TestRetire.wsdl
+END
+TestRetire.bpel
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tud/!svn/ver/126/apache-ode-sources-1.2/axis2-war/src/test/resources/TestInstanceRetire/2/TestRetire.bpel
+END

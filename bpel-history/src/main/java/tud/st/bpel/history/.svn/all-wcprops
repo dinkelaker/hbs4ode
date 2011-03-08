@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tud/!svn/ver/158/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history
+END
+BpelHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/BpelHistory.java
+END
+NullPolicyViolationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/NullPolicyViolationHandler.java
+END
+BpelPrologHistoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/BpelPrologHistoryListener.java
+END
+PolicyViolatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/PolicyViolatedException.java
+END
+BpelLogHistoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/BpelLogHistoryListener.java
+END
+PolicyViolationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/PolicyViolationHandler.java
+END
+BpelHistoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tud/!svn/ver/179/apache-ode-sources-1.2/bpel-history/src/main/java/tud/st/bpel/history/BpelHistoryListener.java
+END
