@@ -7,7 +7,7 @@
 *.ipr
 *.iws
 *.zip
-*.jar
+# *.jar
 *.orig
 *.rej
 *~
